@@ -29,8 +29,5 @@ A simple **BMI Calculator** app for Android, built using **Java** and **XML** in
 - **User Profile**: Add the option for users to save their BMI calculations for future reference.
 - **Suggestions**: Provide fitness or diet suggestions based on BMI results.
 - **Additional Metrics**: Include more health metrics like waist-to-hip ratio or body fat percentage.
-  
-## License
 
-This project is licensed under the **MIT License**.
 
